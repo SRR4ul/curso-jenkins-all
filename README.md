@@ -1,2 +1,1 @@
-# curso-jenkins-all
-curso-jenkins-all
+Recursos para el Curso "La Guía de Jenkins: ¡De Cero a Experto!"
